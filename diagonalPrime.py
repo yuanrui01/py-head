@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     # 2614. 对角线上的质数
     def diagonalPrime(self, nums: List[List[int]]) -> int:

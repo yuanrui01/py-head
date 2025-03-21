@@ -18,6 +18,9 @@ class Solution:
             return True
         
         ans = 0
+        ans = 0
+        n = len(nums)
+        
         n = len(nums)
         for i in range(n):
             x1 = nums[i][i]
